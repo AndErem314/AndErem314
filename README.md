@@ -61,12 +61,5 @@ Dollar-cost averaging trading bot for Solana via Jupiter Exchange with Phantom w
 
 ---
 
-### 📫 Let's Connect
-
-- 💬 Open to collaborations on **AI/ML**, **RAG**, and **quantitative trading** projects
-- 📍 Based in Germany
-
----
-
 *From hypothesis to pipeline — I build systems that work.*
 
